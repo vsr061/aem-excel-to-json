@@ -80,6 +80,8 @@
                     <includeEmptyDirs>true</includeEmptyDirs>
                 </configuration>
             </plugin>
+			
+
 
             <!-- ====================================================================== -->
             <!-- V A U L T   P A C K A G E   P L U G I N                                -->
@@ -100,13 +102,6 @@
                             <target>/apps/excel-to-json/install</target>
                         </embedded>
                     </embeddeds>
-                    <subPackages>
-                        <subPackage>
-                            <groupId>com.adobe.cq</groupId>
-                            <artifactId>core.wcm.components.all</artifactId>
-                            <filter>true</filter>
-                        </subPackage>
-                    </subPackages>
                 </configuration>
             </plugin>
 

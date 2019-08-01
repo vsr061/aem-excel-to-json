@@ -39,4 +39,4 @@ Or to deploy only the bundle to the author, run
 
 The project comes with the auto-public repository configured. To setup the repository in your Maven settings, refer to:
 
-    http://helpx.adobe.com/experience-manager/kb/SetUpTheAdobeMavenRepository.html
+    https://helpx.adobe.com/experience-manager/using/maven_arch13.html
