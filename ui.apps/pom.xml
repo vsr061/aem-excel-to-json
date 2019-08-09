@@ -96,6 +96,9 @@
                             <target>/apps/excel-to-json/install</target>
                         </embedded>
                     </embeddeds>
+					<properties>
+                            <acHandling>merge_preserve</acHandling>
+                    </properties>
                 </configuration>
             </plugin>
 

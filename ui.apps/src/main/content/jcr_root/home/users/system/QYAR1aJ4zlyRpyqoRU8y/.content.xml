@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:rep="internal"
+    jcr:primaryType="rep:SystemUser"
+    jcr:uuid="cbcad136-b707-33f7-9cbc-46b9dd291328"
+    rep:authorizableId="aem-service-user"
+    rep:principalName="aem-service-user"/>
