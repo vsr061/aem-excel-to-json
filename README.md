@@ -13,6 +13,10 @@ This project is developed to show how to extend Granite UI to create custom menu
  - AEM 6.4
  - AEM 6.3
 
+## Download and Install
+
+Download the latest [build](https://github.com/vsr061/aem-excel-to-json/releases) and install through AEM package manager
+
 ## Modules
 
 The main parts of the project are:
