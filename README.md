@@ -1,5 +1,5 @@
 
-# Excel to JSON Tool
+# Excel to JSON Tool [![Build Status](https://travis-ci.com/vsr061/aem-excel-to-json.svg?branch=master)](https://travis-ci.com/vsr061/aem-excel-to-json)
 
 This project is developed to show how to extend Granite UI to create custom menu under AEM Tools.
 #### Concepts covered in this project:
