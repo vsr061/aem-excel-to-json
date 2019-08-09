@@ -1,0 +1,22 @@
+.color--primary {
+    color: #1e5fbe;
+}
+
+.font--normal {
+    font-weight: normal;
+}
+
+.loading {
+    width: 40px;
+    height: 40px;
+    background: url(/apps/excel-to-json/clientlibs/clientlib-base/gifs/loading.gif);
+    background-size: 100%;
+}
+
+.loading--show {
+    display: inline-block !important;
+}
+
+.loading--hide {
+    display: none !important;
+}

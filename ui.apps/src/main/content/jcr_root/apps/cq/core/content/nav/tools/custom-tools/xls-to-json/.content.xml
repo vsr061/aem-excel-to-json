@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:description="Upload xls/xlsx file and get it converted to json"
+    jcr:primaryType="nt:unstructured"
+    jcr:title="XLS / XLSX to JSON Converter"
+    href="/apps/excel-to-json/components/content/excel-upload.html"
+    icon="fileExcel"
+    id="custom-excel-upload"
+    target="_blank"/>
