@@ -5,7 +5,7 @@
 This project is developed to show how to extend Granite UI to create custom menu under AEM Tools.
 #### Concepts covered in this project:
 * Sling Resource Merger
-* Extend Granite UI
+* Granite UI Shell
 
 ## Tested on
 
