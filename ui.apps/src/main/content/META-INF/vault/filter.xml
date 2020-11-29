@@ -2,6 +2,6 @@
 <workspaceFilter version="1.0">
     <filter root="/apps/excel-to-json"/>
 	<filter root="/apps/cq/core/content/nav/tools/custom-tools"/>
-	<filter root="/content/json"/>
+	<filter root="/content/dam/json"/>
 	<filter root="/home/users/system/QYAR1aJ4zlyRpyqoRU8y"/>
 </workspaceFilter>
